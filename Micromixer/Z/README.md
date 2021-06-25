@@ -14,7 +14,7 @@ Aperture for liquid entry
 Aperture for liquid exit
 200 µm
 
-Aperture for gas
+Aperture for gas entry
 100 µm
 
 Inlet ribs 350 µm diameter
