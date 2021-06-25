@@ -8,10 +8,13 @@ Micromixer
 D(channel)-D(MC)-D(SC)-L(channel) [µm]
 = 100-75-180-300
 
-Aperture for liquid
+Aperture for liquid entry
 100 µm
 
-Aperture for gas
+Aperture for liquid exit
+100 µm
+
+Aperture for gas entry
 100 µm
 
 Inlet ribs 350 µm diameter
