@@ -1,7 +1,7 @@
 # Subfolder Readme file
 This subfolder contains
 
-MV_100_75_180_2122_75_60_75_20_8.stl
+MVED_100_75_180_2122_75_60_75_20_8.stl
 
 Mixing GDVN
 
