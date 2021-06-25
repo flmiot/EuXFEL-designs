@@ -12,7 +12,7 @@ Aperture for liquid
 100 down to 50 µm
 
 Aperture for gas
-20 down to 60 µm
+200 down to 60 µm
 
 Reference edge 140 µm
 Inlet ribs 350 µm diameter
