@@ -1,7 +1,7 @@
 # Subfolder Readme file
 This subfolder contains
 
-JKMH6_75_60_75_7.stl
+MVED_B_75_60_75_7.stl
 
 GDVN
 
