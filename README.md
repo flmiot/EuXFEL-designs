@@ -27,7 +27,7 @@ Designs for 3D printed liquid sample delivery solutions at the European XFEL
           <td>30-30-30</td>
           <td>≥5</td>
 		  <td>≤4.5</td>
-		  <td><a href="../blob/master/GDVN/JKMH_5/JKMH_10H_5.stl" title="JKMH_10H_5.stl">JKMH_5</a></td>	  
+		  <td><a href="../master/GDVN/JKMH_5/JKMH_10H_5.stl" title="JKMH_10H_5.stl">JKMH_5</a></td>	  
 		</tr>
 		<tr>
           <td>50-60-60</td>
