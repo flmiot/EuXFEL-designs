@@ -169,7 +169,7 @@ Designs for 3D printed liquid sample delivery solutions at the European XFEL
 		  <td><a href="../main/MixingHVE/MV_J/MV_J_75_345_600_7.stl" title="MV_J_75_345_600_7.stl">MV_J</a></td>	 
         </tr>
 	<tr>
-          <th colspan = 1 rowspan = 3>CTT</th>
+          <th colspan = 1 rowspan = 3>CTT for solution scattering</th>
 	  <td></td>
           <td><i>D<sub>channel</sub>-L<sub>channel</sub>-z<sub>wall</sub>-α</i></td>
           <td></td>
