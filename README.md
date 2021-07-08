@@ -15,7 +15,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 			<th>Device type</th>
 			<th>Design parameters</br>[um]</th>
 			<th>Q<sub>Liquid</sub></br>[uL/min]</th>
-			<th>Pulse rep. mode</br>[MHz]</th>
+			<th>Operation mode<sup>1</sup></th>
 			<th>Design name</th>
         </tr>
     </thead>
@@ -30,37 +30,37 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 		<tr>
           <td>30-30-30</td>
           <td>≥5</td>
-		  <td>≤4.5</td>
-		  <td><a href="../main/GDVN/JKMH_5/JKMH_5_30_30_30_1.stl" title="JKMH_5_30_30_30_1.stl">JKMH_5</a></td>	  
+		  <td>≤4.5 MHz</td>
+		  <td><a href="../main/GDVN/JKMH_5/JKMH_5_30_30_30_1.stl" title="JKMH_5_30_30_30_1.stl">JKMH_5</a><sup>8</sup></td>	  
 		</tr>
 		<tr>
           <td>50-60-60</td>
           <td>≥8</td>
-		  <td>≤4.5</td>
-		  <td><a href="../main/GDVN/JKMH_6/JKMH_6_50_60_60_3.stl" title="JKMH_6_50_60_60_3.stl">JKMH_6</a></td>	  
+		  <td>≤4.5 MHz</td>
+		  <td><a href="../main/GDVN/JKMH_6/JKMH_6_50_60_60_3.stl" title="JKMH_6_50_60_60_3.stl">JKMH_6</a><sup>8</sup></td>	  
         </tr>
 		<tr>
           <td>75-60-75</td>
           <td>≥8</td>
-		  <td>≤1.1</td>
+		  <td>≤1.1 MHz</td>
 		  <td><a href="../main/GDVN/MVED_B/MVED_B_75_60_75_7.stl" title="MVED_B_75_60_75_7.stl">MVED_B</a></td>	  
         </tr>
 		<tr>
           <td>100-90-100</td>
           <td>≥10</td>
-		  <td>≤0.5</td>
+		  <td>≤0.5 MHz</td>
 		  <td><a href="../main/GDVN/MVED_C/MVED_C_100_90_100_2.stl" title="MVED_C_100_90_100_2.stl">MVED_C</a></td>	  
         </tr>
 		<tr>
           <td>150-100-150</td>
           <td>≥75</td>
-		  <td>≤0.142</td>
+		  <td>≤0.142 MHz</td>
 		  <td><a href="../main/GDVN/MVED_D/MVED_D_150_100_150_4.stl" title="MVED_D_150_100_150_4.stl">MVED_D</a></td>	  
         </tr>
 		<tr>
           <td>180-145-180</td>
           <td>≥100</td>
-		  <td>≤0.142</td>
+		  <td>≤0.142 MHz</td>
 		  <td><a href="../main/GDVN/MVED_E/MVED_E_180_145_180_7.stl" title="MVED_E_180_145_180_7.stl">MVED_E</a></td>	  
         </tr>
 		<tr>
@@ -90,14 +90,14 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
           <td>200-(200/2)-(200/2)-950</td>
           <td>≥10</td>
 		  <td>Depends on nozzle</td>
-		  <td><a href="../main/Micromixer/JKMH_10/JKMH_10_5.stl" title="JKMH_10_5.stl">JKMH_10</a></td>	  
+		  <td><a href="../main/Micromixer/JKMH_10/JKMH_10_5.stl" title="JKMH_10_5.stl">JKMH_10</a><sup>8</sup></td>	  
         </tr>
 		<tr>
 		  <td>Kenics</td>
           <td>100-(100/2)-(100/2)-950</td>
           <td>≥10</td>
 		  <td>Depends on nozzle</td>
-		  <td><a href="../main/Micromixer/JKMH_10H/JKMH_10H_5.stl" title="JKMH_10H_5.stl">JKMH_10H</a></td>	  
+		  <td><a href="../main/Micromixer/JKMH_10H/JKMH_10H_5.stl" title="JKMH_10H_5.stl">JKMH_10H</a><sup>8</sup></td>	  
         </tr>
 		<tr>
           <th colspan = 2 rowspan = 3>Mixing GDVN</th>
@@ -109,20 +109,20 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 		<tr>
           <td>100-75-180-2122.3-75-60-75</td>
           <td>≥10</td>
-		  <td>≤1.1</td>
+		  <td>≤1.1 MHz</td>
 		  <td><a href="../main/MixingGDVN/MVED_S/MVED_100_75_180_2122_75_60_75_20_8.stl" title="MVED_100_75_180_2122_75_60_75_20_8.stl">MVED_S</a></td>	  
         </tr>
 		<tr>
           <td>100-75-180-331.8-75-60-75</td>
           <td>≥10</td>
-		  <td>≤1.1</td>
+		  <td>≤1.1 MHz</td>
 		  <td><a href="../main/MixingGDVN/MVED_V/MVED_100_75_180_2122_75_60_75_20_8.stl" title="MVED_100_75_180_2122_75_60_75_20_8.stl">MVED_V</a></td>	  
         </tr>
 		<tr>
           <th colspan = 2 rowspan = 1>DFFN</th>
 		  <td>100-75-96-445.6-75-70-70</td>
           <td>5 (sample) + 20 (EtOH)</td>
-		  <td>≤4.5</td>
+		  <td>≤4.5 MHz</td>
 		  <td><a href="../main/DFFN/JKMH_8/JKMH_8_8.stl" title="JKMH_8_8.stl">JKMH_8</a></td>	 
 		</tr>
         <tr>
@@ -201,13 +201,13 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 	    <tr>
           <td>40-200-50-30°</td>
           <td>0.02-0.4</td>
-		  <td>≤4.5</td>
+		  <td>≤4.5 MHz</td>
 		  <td><a href="../main/ES/W/MV_W_40_200_50_30_3.stl" title="MV_W_40_200_50_30_3.stl">MV_W</a></td>	 
         </tr>
 	    <tr>
           <td>10-200-10-20°</td>
           <td>0.02-0.4</td>
-		  <td>≤4.5<a name="myfootnote1">1</a><sup>1</sup></td>
+		  <td>≤4.5 MHz<a name="myfootnote1">1</a><sup>1</sup></td>
 		  <td><a href="../main/ES/X/MV_X_10_200_10_20_3.stl" title="MV_X_10_200_10_20_3.stl">MV_X</a></td>	 
         </tr>
 	<tr>
