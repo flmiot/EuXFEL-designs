@@ -29,13 +29,13 @@ Designs for 3D printed liquid sample delivery solutions at the European XFEL
 		<tr>
           <td>30-30-30</td>
           <td>≥5</td>
-		  <td>≤4.5 MHz</td>
+		  <td>≤2.2 MHz</td>
 		  <td><a href="../main/GDVN/JKMH_5/" title="JKMH_5">JKMH_5</a></td>	  
 		</tr>
 		<tr>
           <td>50-60-60</td>
           <td>≥8</td>
-		  <td>≤4.5 MHz</td>
+		  <td>≤2.2 MHz</td>
 		  <td><a href="../main/GDVN/JKMH_6/" title="JKMH_6">JKMH_6</a></td>	  
         </tr>
 		<tr>
@@ -121,7 +121,7 @@ Designs for 3D printed liquid sample delivery solutions at the European XFEL
           <th colspan = 2 rowspan = 1>DFFN</th>
 		  <td>100-75-96-445.6-75-70-70</td>
           <td>5 (sample) + 20 (EtOH)</td>
-		  <td>≤4.5 MHz</td>
+		  <td>≤2.2 MHz</td>
 		  <td><a href="../main/DFFN/JKMH_8/" title="JKMH_8">JKMH_8</a></td>	 
 		</tr>
         <tr>
