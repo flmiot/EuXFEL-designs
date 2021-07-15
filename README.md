@@ -199,13 +199,13 @@ Designs for 3D printed liquid sample delivery solutions at the European XFEL
         </tr>
 	    <tr>
           <td>40-200-50-30°</td>
-          <td>0.02-0.4</td>
+          <td>0.02-0.8</td>
 		  <td>≤4.5 MHz</td>
 		  <td><a href="../main/ES/W/" title="MV_W">MV_W</a></td>	 
         </tr>
 	    <tr>
           <td>10-200-10-20°</td>
-          <td>0.02-0.4</td>
+          <td>0.02-0.8</td>
 		  <td>≤4.5 MHz</td>
 		  <td><a href="../main/ES/X/" title="MV_X">MV_X</a></td>	 
         </tr>
