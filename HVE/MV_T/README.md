@@ -16,3 +16,8 @@ Aperture for liquid exit
 
 Inlet ribs 350 µm diameter
 1 devices per printing batch
+
+7.stl
+
+Aperture for liquid entry
+250 µm which tapers down to 75 µm at liquid exit
