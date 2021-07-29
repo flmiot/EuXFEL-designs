@@ -17,7 +17,7 @@ Inlet ribs 315 µm diameter (for burnt off polyimide coating and use of NOA68)
 Distance between inlets 390 µm
 Increased wall thickness at the exit liquid apertures
 
-8.stl
+9.stl
 Follow up to 5.stl
 Inlet diameter 366 µm
 Inlet ribs 350 µm diameter (for use with epoxy)
