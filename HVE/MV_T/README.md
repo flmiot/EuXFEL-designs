@@ -20,4 +20,4 @@ Inlet ribs 350 µm diameter
 7.stl
 
 Aperture for liquid entry
-250 µm which tapers down to 75 µm at liquid exit
+250 µm which tapers down to 100 µm at liquid exit
