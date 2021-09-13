@@ -2,7 +2,7 @@
 This subfolder contains
 
 
-JKMH8_6.stl (use this!)
+JKMH8_6.stl
 
 DFFN
 
@@ -22,9 +22,17 @@ JKMH_8_7.stl
 follow up to 6.stl
 Increased wall thickness at the exit liquid apertures
 
+JKMH_8_10.stl
+Wall thickness as with 8_6.stl
+50 µm longer inlet port
+5 glue stopper rings
+
+
+Epoxy
+
 JKMH_8_8.stl
 Follow up to 5.stl
-Inlet diameter 360 µm (to narrow for un-burnt capillaries)
+Inlet diameter 360 µm (to narrow for un-burnt capillaries!)
 Inlet ribs 350 µm diameter (for use with epoxy)
 Increased wall thickness at the exit liquid apertures
 
