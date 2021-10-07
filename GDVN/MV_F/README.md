@@ -9,7 +9,7 @@ D(liquid)-D(gas)-H(liquid-gas) [µm]
 = 30-30-30
 
 Aperture for liquid 
-100 down to 30 µm (5275 long channel)
+100 down to 30 µm (527.5 µm long tapering)
 
 Aperture for gas
 200 down to 30 µm
