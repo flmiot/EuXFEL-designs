@@ -30,7 +30,8 @@ Designs for 3D printed liquid sample delivery systems
           <td>30-30-30</td>
           <td>≥5</td>
 		  <td>≤2.2 MHz</td>
-		  <td><a href="../main/GDVN/JKMH_5/" title="JKMH_5">JKMH_5</a></td>, td><a href="../main/GDVN/MV_F/" title="MV_F">MV_F</a></td>	  
+		  <td><a href="../main/GDVN/JKMH_5/" title="JKMH_5">JKMH_5</a></td>
+		  <td><a href="../main/GDVN/MV_F/" title="MV_F">MV_F</a></td>
 		</tr>
 		<tr>
           <td>50-60-60</td>
