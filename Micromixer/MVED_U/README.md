@@ -1,18 +1,18 @@
 # Subfolder Readme file
 This subfolder contains
 
-MVED_100_75_180_300_22_12.stl
+MVED_250_150_335_6_300_24_12.stl
 
 Micromixer
 
 D(channel)-D(MC)-D(SC)-L(channel) [µm]
-= 100-75-180-300
+= 250-150-335.6-300
 
 Apertures for liquid entry
-100 µm
+150 µm
 
 Aperture for liquid exit
-100 µm
+250 µm
 
 Aperture for gas entry
 100 µm
