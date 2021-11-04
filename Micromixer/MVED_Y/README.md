@@ -8,8 +8,14 @@ Micromixer
 D(channel)-D(MC)-D(SC)-L(channel) [µm]
 = 100-75-180-300
 
-Apertures for liquid entry
+Apertures for liquid entry (2)
 100 µm
+
+Main channel (internal)
+100 to 75 µm
+
+Side channel (internal)
+100 to 180 to 180 µm
 
 Aperture for liquid exit
 100 µm
