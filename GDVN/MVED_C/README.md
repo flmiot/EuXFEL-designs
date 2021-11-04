@@ -19,3 +19,6 @@ Inlet ribs 350 µm diameter
 
 2.stl 
 For sample capillaries with 200 µm ID
+
+3.stl 
+For sample capillaries with 250 µm ID
