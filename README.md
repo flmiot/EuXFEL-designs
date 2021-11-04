@@ -1,7 +1,7 @@
 # 3D Printed Devices and Infrastructure for Liquid Sample Delivery at the European XFEL
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-Designs for 3D printed liquid sample delivery systems
+3D Designs for liquid sample delivery systems
 
 
 
