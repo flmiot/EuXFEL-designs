@@ -7,7 +7,7 @@
 
 ## Device overview
 
-<table style="width: -webkit-calc(100% - 1px);width:-moz-calc(100% - 1px);width:calc(100% - 1px);">
+<table>
     <thead>  
         <tr>
 		<th>Device class</th>
