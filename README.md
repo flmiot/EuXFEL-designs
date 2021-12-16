@@ -133,7 +133,7 @@
 	<tr>
           <th colspan = 2 rowspan = 1>DFFN</th>
 	  <td>100-75-96-445.6-75-70-70</td>
-          <td>5 (sample) + 20 (EtOH)</td>
+          <td>5 <br>(sample)<br> + 20 <br>(EtOH)</td>
 	  <td>≤2.2 MHz</td>
 	  <td><a href="../main/DFFN/JKMH_8/" title="JKMH_8">JKMH_8</a></td>	 
 	</tr>
