@@ -30,7 +30,7 @@
           <td>30-30-30</td>
           <td>≥5</td>
 	  <td>≤2.2 MHz</td>
-	  <td><a href="../main/GDVN/JKMH_5/" title="JKMH_5">JKMH_5</a></td>
+	  <td><a href="../main/GDVN/JKMH_5/" title="JKMH_5">JKMH_5</a>, <a href="../main/GDVN/MVED_F/" title="MVED_F">MVED_F</a></td>
 	</tr>
 	<tr>
           <td>50-60-60</td>
