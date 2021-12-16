@@ -182,7 +182,7 @@
 	  <td><a href="../main/MixingHVE/MV_J/" title="MV_J">MV_J</a></td>	 
         </tr>
 	<tr>
-          <th colspan = 1 rowspan = 3>CTT for solution scattering</th>
+          <th colspan = 1 rowspan = 3>CTT for<br> solution scattering</th>
 	  <td></td>
           <td><i>D<sub>channel</sub>-L<sub>channel</sub>-z<sub>wall</sub>-α</i></td>
           <td></td>
