@@ -106,11 +106,17 @@
 	  <td><a href="../main/Micromixer/JKMH_10H/" title="JKMH_10H">JKMH_10H</a></td>	  
         </tr>
 	<tr>
-          <th colspan = 2 rowspan = 3>Mixing GDVN</th>
+          <th colspan = 2 rowspan = 4>Mixing GDVN</th>
           <td><i>D<sub>channel</sub>-D<sub>MC</sub>-D<sub>SC</sub>-L<sub>channel</sub>-D<sub>liquid</sub>-D<sub>gas</sub>-H<sub>liquid-gas</i></td>
           <td></td>
 	  <td></td>
 	  <td></td>
+        </tr>
+	<tr>
+          <td>75-75-180-2122.3-75-60-75</td>
+          <td>≥10</td>
+	  <td>≤1.1 MHz</td>
+	  <td><a href="../main/MixingGDVN/MVED_R/" title="MVED_R">MVED_R</a></td>	  
         </tr>
 	<tr>
           <td>100-75-180-2122.3-75-60-75</td>
