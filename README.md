@@ -7,7 +7,7 @@
 
 ## Device overview
 
-<table>
+<table style="width:10%">
     <thead>  
         <tr>
 		<th>Device class</th>
