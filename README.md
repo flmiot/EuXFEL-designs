@@ -1,7 +1,7 @@
 # 3D Printed Devices and Infrastructure for Liquid Sample Delivery at the European XFEL
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-3D Designs for liquid sample delivery systems
+Liquid sample delivery systems
 
 
 
@@ -106,7 +106,7 @@
 	  <td><a href="../main/Micromixer/JKMH_10H/" title="JKMH_10H">JKMH_10H</a></td>	  
         </tr>
 	<tr>
-          <th colspan = 2 rowspan = 4>Mixing GDVN</th>
+          <th colspan = 2 rowspan = 4>Mixing-GDVN</th>
           <td><i>D<sub>channel</sub>-D<sub>MC</sub>-D<sub>SC</sub>-L<sub>channel</sub>-D<sub>liquid</sub>-D<sub>gas</sub>-H<sub>liquid-gas</i></td>
           <td></td>
 	  <td></td>
@@ -163,7 +163,7 @@
 	  <td><a href="../main/HVE/MV_T/" title="MV_T">MV_T</a></td>	 
         </tr>
 	<tr>
-          <th colspan = 2 rowspan = 3>Mixing HVE</th>
+          <th colspan = 2 rowspan = 3>Mixing-HVE</th>
           <td><i>D<sub>channel</sub>-D<sub>MC</sub>-D<sub>SC</sub>-L<sub>channel</sub>-D<sub>liquid</sub>-D<sub>gas</sub>-D<sub>liquid-gas</sub>-z<sub>wall</sub>-α</i></td>
 	  <td></td>
 		  <td></td>
@@ -204,7 +204,7 @@
 		  <td><a href="../main/CTT/O/" title="MV_O">MV_O</a></td>	 
         </tr>
 	<tr>
-          <th colspan = 2 rowspan = 3>Electrosprayer (ES), CCTs</th>
+          <th colspan = 2 rowspan = 3>Electrosprayer (ES), CCT</th>
           <td><i>D<sub>channel</sub>-L<sub>channel</sub>-z<sub>wall</sub>-α</i></td>
           <td></td>
 		  <td></td>
