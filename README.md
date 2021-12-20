@@ -11,10 +11,10 @@ Liquid sample delivery systems
     <thead>  
         <tr>
 		<th>Device class</th>
-		<th>Device type</th>
+		<th>Type</th>
 		<th>Design parameters</br>[um]</th>
 		<th>Q<sub>Liquid</sub></br>[uL/min]</th>
-		<th>Operation mode<sup>1</sup></th>
+		<th>Operation mode</th>
 		<th>Design name</th>
         </tr>
     </thead>
