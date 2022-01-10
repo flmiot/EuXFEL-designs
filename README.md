@@ -1,7 +1,7 @@
 # 3D Printed Devices and Infrastructure for Liquid Sample Delivery at the European XFEL
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-This repository contains solutions for liquid sample delivery systems. Designs are provided in STL data format. Select an STL file to use the preview feature for 3D files on Github.   
+This repository contains solutions for liquid sample delivery systems suitable for experiments at X-ray free-electron lasers. Designs are provided in STL data format. Select an STL file to use the preview feature for 3D files on Github.   
 
 
 ## Device overview
@@ -193,14 +193,14 @@ This repository contains solutions for liquid sample delivery systems. Designs a
           <td>100-5350-75-11°</td>
           <td>≤21400</td>
 		  <td>0.568 MHz</td>
-		  <td><a href="../main/CTT/P/" title="MV_P">MV_P</a></td>	 
+		  <td><a href="https://github.com/flmiot/EuXFEL-designs/tree/main/CTT/P_100" title="MV_P">MV_P</a></td>	 
         </tr>
 	<tr>
 	  <td>Screwed</td>
           <td>100-5350-75-11°</td>
           <td>≤21400</td>
 		  <td>0.568 MHz</td>
-		  <td><a href="../main/CTT/O/" title="MV_O">MV_O</a></td>	 
+		  <td><a href="https://github.com/flmiot/EuXFEL-designs/tree/main/CTT/O_100" title="MV_O">MV_O</a></td>	 
         </tr>
 	<tr>
           <th colspan = 2 rowspan = 3>Electrosprayer (ES), CCT</th>
@@ -213,13 +213,13 @@ This repository contains solutions for liquid sample delivery systems. Designs a
           <td>40-200-50-30°</td>
           <td>0.02-0.8</td>
 		  <td>≤4.5 MHz</td>
-		  <td><a href="../main/ES/W/" title="MV_W">MV_W</a></td>	 
+		  <td><a href="https://github.com/flmiot/EuXFEL-designs/tree/main/Electrosprayer/W" title="MV_W">MV_W</a></td>	 
         </tr>
 	    <tr>
           <td>10-200-10-20°</td>
           <td>0.02-0.8</td>
 		  <td>≤4.5 MHz</td>
-		  <td><a href="../main/ES/X/" title="MV_X">MV_X</a></td>	 
+		  <td><a href="https://github.com/flmiot/EuXFEL-designs/tree/main/Electrosprayer/X" title="MV_X">MV_X</a></td>	 
         </tr>
 	<tr>
           <th colspan = 2 rowspan = 2>MicroUnions</th>
