@@ -1,8 +1,7 @@
 # 3D Printed Devices and Infrastructure for Liquid Sample Delivery at the European XFEL
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-3D Designs for liquid sample delivery systems
-
+This repository contains solutions for liquid sample delivery systems suitable for experiments at X-ray free-electron lasers. Designs are provided in STL data format. Select an STL file to use the preview feature for 3D files on Github.   
 
 
 ## Device overview
@@ -11,10 +10,10 @@
     <thead>  
         <tr>
 		<th>Device class</th>
-		<th>Device type</th>
+		<th>Type</th>
 		<th>Design parameters</br>[um]</th>
 		<th>Q<sub>Liquid</sub></br>[uL/min]</th>
-		<th>Operation mode<sup>1</sup></th>
+		<th>Operation mode</th>
 		<th>Design name</th>
         </tr>
     </thead>
@@ -30,7 +29,7 @@
           <td>30-30-30</td>
           <td>≥5</td>
 	  <td>≤2.2 MHz</td>
-	  <td><a href="../main/GDVN/JKMH_5/" title="JKMH_5">JKMH_5</a></td>
+	  <td><a href="../main/GDVN/JKMH_5/" title="JKMH_5">JKMH_5</a>, <a href="../main/GDVN/MVED_F/" title="MVED_F">MVED_F</a></td>
 	</tr>
 	<tr>
           <td>50-60-60</td>
@@ -106,11 +105,17 @@
 	  <td><a href="../main/Micromixer/JKMH_10H/" title="JKMH_10H">JKMH_10H</a></td>	  
         </tr>
 	<tr>
-          <th colspan = 2 rowspan = 3>Mixing GDVN</th>
+          <th colspan = 2 rowspan = 4>Mixing-GDVN</th>
           <td><i>D<sub>channel</sub>-D<sub>MC</sub>-D<sub>SC</sub>-L<sub>channel</sub>-D<sub>liquid</sub>-D<sub>gas</sub>-H<sub>liquid-gas</i></td>
           <td></td>
 	  <td></td>
 	  <td></td>
+        </tr>
+	<tr>
+          <td>75-75-180-2122.3-75-60-75</td>
+          <td>≥10</td>
+	  <td>≤1.1 MHz</td>
+	  <td><a href="../main/MixingGDVN/MVED_R/" title="MVED_R">MVED_R</a></td>	  
         </tr>
 	<tr>
           <td>100-75-180-2122.3-75-60-75</td>
@@ -127,7 +132,7 @@
 	<tr>
           <th colspan = 2 rowspan = 1>DFFN</th>
 	  <td>100-75-96-445.6-75-70-70</td>
-          <td>5 (sample) + 20 (EtOH)</td>
+          <td>5 <br>(sample)<br> + 20 <br>(EtOH)</td>
 	  <td>≤2.2 MHz</td>
 	  <td><a href="../main/DFFN/JKMH_8/" title="JKMH_8">JKMH_8</a></td>	 
 	</tr>
@@ -157,7 +162,7 @@
 	  <td><a href="../main/HVE/MV_T/" title="MV_T">MV_T</a></td>	 
         </tr>
 	<tr>
-          <th colspan = 2 rowspan = 3>Mixing HVE</th>
+          <th colspan = 2 rowspan = 3>Mixing-HVE</th>
           <td><i>D<sub>channel</sub>-D<sub>MC</sub>-D<sub>SC</sub>-L<sub>channel</sub>-D<sub>liquid</sub>-D<sub>gas</sub>-D<sub>liquid-gas</sub>-z<sub>wall</sub>-α</i></td>
 	  <td></td>
 		  <td></td>
@@ -176,7 +181,7 @@
 	  <td><a href="../main/MixingHVE/MV_J/" title="MV_J">MV_J</a></td>	 
         </tr>
 	<tr>
-          <th colspan = 1 rowspan = 3>CTT for solution scattering</th>
+          <th colspan = 1 rowspan = 3>CTT for<br> solution scattering</th>
 	  <td></td>
           <td><i>D<sub>channel</sub>-L<sub>channel</sub>-z<sub>wall</sub>-α</i></td>
           <td></td>
@@ -188,17 +193,17 @@
           <td>100-5350-75-11°</td>
           <td>≤21400</td>
 		  <td>0.568 MHz</td>
-		  <td><a href="../main/CTT/P/" title="MV_P">MV_P</a></td>	 
+		  <td><a href="https://github.com/flmiot/EuXFEL-designs/tree/main/CTT/P_100" title="MV_P">MV_P</a></td>	 
         </tr>
 	<tr>
 	  <td>Screwed</td>
           <td>100-5350-75-11°</td>
           <td>≤21400</td>
 		  <td>0.568 MHz</td>
-		  <td><a href="../main/CTT/O/" title="MV_O">MV_O</a></td>	 
+		  <td><a href="https://github.com/flmiot/EuXFEL-designs/tree/main/CTT/O_100" title="MV_O">MV_O</a></td>	 
         </tr>
 	<tr>
-          <th colspan = 2 rowspan = 3>Electrosprayer (ES), CCTs</th>
+          <th colspan = 2 rowspan = 3>Electrosprayer (ES), CCT</th>
           <td><i>D<sub>channel</sub>-L<sub>channel</sub>-z<sub>wall</sub>-α</i></td>
           <td></td>
 		  <td></td>
@@ -208,13 +213,13 @@
           <td>40-200-50-30°</td>
           <td>0.02-0.8</td>
 		  <td>≤4.5 MHz</td>
-		  <td><a href="../main/ES/W/" title="MV_W">MV_W</a></td>	 
+		  <td><a href="https://github.com/flmiot/EuXFEL-designs/tree/main/Electrosprayer/W" title="MV_W">MV_W</a></td>	 
         </tr>
 	    <tr>
           <td>10-200-10-20°</td>
           <td>0.02-0.8</td>
 		  <td>≤4.5 MHz</td>
-		  <td><a href="../main/ES/X/" title="MV_X">MV_X</a></td>	 
+		  <td><a href="https://github.com/flmiot/EuXFEL-designs/tree/main/Electrosprayer/X" title="MV_X">MV_X</a></td>	 
         </tr>
 	<tr>
           <th colspan = 2 rowspan = 2>MicroUnions</th>
