@@ -27,6 +27,11 @@ Wall thickness as with 8_6.stl
 50 µm longer inlet port
 5 glue stopper rings
 
+JKMH_8_11.stl
+follow up to _10.stl
+Slightly increased wall thickness 
+at the exit liquid apertures
+
 
 Epoxy
 
