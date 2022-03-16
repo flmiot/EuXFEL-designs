@@ -32,6 +32,15 @@ follow up to _10.stl
 Slightly increased wall thickness 
 at the exit liquid apertures
 
+JKMH_8_12.stl
+like 8.11 but with RS-PP functionality
+Reference edge 246 µm
+D(channel)-D(MC)-D(SC)-L(channel)-D(liquid)-D(gas)-H(liquid-gas) [µm]
+= 100-75-96-445.6-75-60-62
+
+
+
+
 
 Epoxy
 
