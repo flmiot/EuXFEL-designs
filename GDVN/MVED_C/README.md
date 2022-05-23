@@ -22,3 +22,8 @@ For sample capillaries with 200 µm ID
 
 3.stl 
 For sample capillaries with 250 µm ID
+
+4.stl 
+D(liquid)-D(gas)-H(liquid-gas) [µm] 
+= 100-75-100
+For sample capillaries with 100 µm ID
