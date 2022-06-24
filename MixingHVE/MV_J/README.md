@@ -19,3 +19,7 @@ Inlet ribs 350 µm diameter
 
 7.stl
 Kenics mixer inserted in channel (helix200ID150pitch)
+
+8.stl
+like 7 but shorter mixing channel
+L(channel) = 1685
