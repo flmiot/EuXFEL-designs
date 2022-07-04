@@ -16,10 +16,12 @@ Aperture for liquid exit
 
 Inlet ribs 350 µm diameter
 1 devices per printing batch
+total length: 3725 µm
 
 7.stl
 Kenics mixer inserted in channel (helix200ID150pitch)
 
 8.stl
 like 7 but shorter mixing channel
-L(channel) = 1685
+L(channel) = 1685 µm
+total length = 2839.7 µm
