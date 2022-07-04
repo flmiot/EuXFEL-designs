@@ -21,3 +21,12 @@ Inlet ribs 350 µm diameter
 
 Aperture for liquid entry
 250 µm which tapers down to 100 µm at liquid exit
+
+8.stl
+
+Aperture for liquid entry
+250 µm which tapers down to 100 µm at liquid exit (550 µm away from nozzle tip)
+total length: 2525 µm
+
+D(liquid)-D(gas)-H(liquid-gas)-z(wall)-α [µm]
+= 100-363-603-20-9°

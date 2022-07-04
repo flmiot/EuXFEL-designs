@@ -1,9 +1,9 @@
 # Subfolder Readme file
 This subfolder contains
 
-MV_K_50_365_600_2.stl 
-
 HVE
+
+MV_K_50_365_600_2.stl 
 
 D(liquid)-D(gas)-H(liquid-gas)-z(wall)-α [µm]
 = 50-365-600-20-9°
@@ -16,3 +16,13 @@ Aperture for liquid exit
 
 Inlet ribs 350 µm diameter
 1 devices per printing batch
+
+
+MV_K_50_363_603_3.stl 
+
+Aperture for liquid entry
+250 µm which tapers down to 75 µm at liquid exit (550 µm away from nozzle tip)
+total length: 2525 µm
+
+D(liquid)-D(gas)-H(liquid-gas)-z(wall)-α [µm]
+= 50-363-603-32.5-9°
