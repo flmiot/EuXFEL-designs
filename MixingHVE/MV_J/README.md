@@ -23,5 +23,5 @@ Kenics mixer inserted in channel (helix200ID150pitch)
 
 8.stl
 like 7 but shorter mixing channel
-L(channel) = 1685 µm
+L(channel) = 1684.5 µm
 total length = 2839.7 µm
