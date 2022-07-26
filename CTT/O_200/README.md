@@ -11,6 +11,9 @@ Requires steel FBFA and 3.5 x 1.25 x 1 mm (OD x OD x thickness) Teflon washers
 D(channel)-L(channel)-z(wall)-α [µm]
 = 200-5350-75-11°
 
+Aperture for liquid entry
+1292.1 µm
+
 Aperture for liquid exit
 200 µm
 
