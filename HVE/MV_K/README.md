@@ -26,3 +26,8 @@ total length: 2525 µm
 
 D(liquid)-D(gas)-H(liquid-gas)-z(wall)-α [µm]
 = 50-363-603-32.5-9°
+
+4.stl
+
+like 3
+Improved neck geometry
