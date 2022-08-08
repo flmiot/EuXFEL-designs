@@ -1,7 +1,7 @@
 # 3D Printed Devices and Infrastructure for Liquid Sample Delivery at the European XFEL
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-This repository contains solutions for liquid sample delivery systems suitable for experiments at X-ray free-electron lasers. Designs are provided in STL/STEP data format. Select an STL file to use the preview feature for 3D files on Github. To properly download the STL/STEP files, click on the green button "Code" on the main page and then "Download ZIP" to receive the entire set of designs (52 MB).  
+This repository contains solutions for liquid sample delivery systems suitable for experiments at X-ray free-electron lasers. Designs are provided in STL/STEP data format. Select an STL file to use the preview feature for 3D files on Github. To properly download the STL/STEP files (and in case you do not want to use Git), click on the green button "Code" on the main page and then "Download ZIP" to receive the entire set of designs (52 MB).  
 
 For referencing theses designs, please cite the corresponding publication:
 https://doi.org/10.1107/S1600577521013370
