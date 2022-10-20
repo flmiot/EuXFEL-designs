@@ -70,6 +70,11 @@ D(channel)-D(MC)-D(SC)-L(channel)-D(liquid)-D(gas)-H(liquid-gas) [µm]
 = 100-75-96-445.6-75-60-62
 
 
+JKMH_8_13.stl
+like up to _11.stl
+but smaller D_gas
+D(channel)-D(MC)-D(SC)-L(channel)-D(liquid)-D(gas)-H(liquid-gas) [µm]
+= 100-75-96-445.6-75-60-70
 
 
 
