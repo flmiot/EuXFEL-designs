@@ -24,11 +24,17 @@ https://doi.org/10.1038/s41467-020-14434-6
     </thead>
     <tbody>
         <tr>
-          <th colspan = 2 rowspan = 7>GDVN</th>
+          <th colspan = 2 rowspan = 8>GDVN</th>
           <td><i>D<sub>liquid</sub>-D<sub>gas</sub>-H<sub>liquid-gas</sub></i></td>
           <td></td>
 	  <td></td>
 	  <td></td>
+        </tr>
+	<tr>
+          <td>20-15-20</td>
+          <td>≥5</td>
+	  <td>≤2.2 MHz</td>
+	  <td><a href="../main/GDVN/MVED_G/" title="MVED_G">MVED_G</a></td>	  
         </tr>
 	<tr>
           <td>30-30-30</td>
