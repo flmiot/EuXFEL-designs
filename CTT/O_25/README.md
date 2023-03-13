@@ -21,3 +21,22 @@ Reference edge 125 µm
 Inlet diameter NA
 Inlet ribs NA
 1 devices per printing batch
+
+
+_17.stl
+For Formlabs-assembly
+
+
+D(channel)-L(channel)-z(wall)-α [µm]
+= 25-1000-50-11°
+
+Aperture for liquid entry
+500 µm
+
+Aperture for liquid exit
+25 µm
+
+Reference edge 125 µm
+Inlet diameter NA
+Inlet ribs NA
+1 devices per printing batch
