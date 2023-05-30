@@ -24,7 +24,7 @@ Inlet ribs NA
 
 
 _17.stl
-For Formlabs-assembly
+Nanoscribe print job for Formlabs-assembly
 
 
 D(channel)-L(channel)-z(wall)-α [µm]
