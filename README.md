@@ -31,7 +31,7 @@ https://doi.org/10.1038/s41467-020-14434-6
 	  <td></td>
         </tr>
 	<tr>
-          <td>20-15-20</td>
+          <td>20-20-30</td>
           <td>≥5</td>
 	  <td>≤2.2 MHz</td>
 	  <td><a href="../main/GDVN/MVED_G/" title="MVED_G">MVED_G</a></td>	  
@@ -244,7 +244,7 @@ https://doi.org/10.1038/s41467-020-14434-6
           <td>100-200 (1.57 nL swept volume)</td>
           <td></td>
 		  <td></td>
-		  <td><a href="../main/Misc/MicroUnion/MV_M/" title="MV_M">MV_M</a></td>	 
+		  <td><a href="../main/Misc/MicroUnion/MV_MU/" title="MV_MU">MV_MU</a></td>	 
         </tr>
     </tbody>
 </table>
