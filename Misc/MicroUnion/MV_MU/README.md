@@ -1,7 +1,7 @@
 # Subfolder Readme file
 This subfolder contains
 
-MV_M_100_200_1.stl
+MV_MU_100_200_1.stl
 
 MicroUnion
 
