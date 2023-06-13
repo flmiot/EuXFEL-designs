@@ -3,6 +3,7 @@ This subfolder contains
 
 MV_O_500_5350_100_11_13.stl
 
+Nanoscribe design
 Coned tubing tips for Rayleigh jets (no gas-focusing)
 To be used in combination with 0.046 inch ID tubings
 Screwed instead of glued
@@ -64,10 +65,11 @@ Aperture for liquid entry
 1250 µm
 
 Aperture for liquid exit
-500 µm
+500 µm wide, 200 µm deep
+
+Entry cylinder for NS nozzle: 580 µm wide and 252 µm deep
 
 Reference edge 900 µm
 Inlet diameter NA
 Inlet ribs NA
 1 devices per printing batch
-
