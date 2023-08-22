@@ -4,16 +4,16 @@ This subfolder contains
 
 MVED_M DFFN
 
-D(channel)-D(MC)-D(SC)-L(channel)-D(liquid)-D(gas)-H(liquid-gas) [µm]
-= 100-75-95-1073-75-60-75
+D(channel)-D(MC)-D(SC)-L(channel)-D(liquid1)-D(gas)-H(liquid1-gas) [µm]
+= 100-75-95-938-75-60-75
 
 _01.stl 
 Reference edge 140 µm
-Total length 1.6307 mm
-MC length 1.073 mm
+Total length 1.4957 mm
+MC length 938 µm
 Inlet diameter 330 µm
 5 Inlet ribs 315 µm diameter (for burnt off polyimide coating and use of NOA68)
-Mesh filter at He, EtOH line
+5 µm deep mesh filter at He & EtOH line with 25x25 µm mesh opening
 Distance between inlets 420 µm in L-shape
 
 H_liquid1-liquid2 10 µm
