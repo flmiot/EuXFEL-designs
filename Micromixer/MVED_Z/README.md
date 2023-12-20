@@ -26,3 +26,13 @@ Aperture for gas entry
 Inlet ribs 350 µm diameter
 Mixing cross is pulled out 180 µm
 2 devices per printing batch
+
+
+
+D10000000950983_A001
+MVED_Z_200_100_231_7_300_23_14.stl
+
+Micromixer
+
+D(channel)-D(MC)-D(SC)-L(channel) [µm]
+= 200-100-231.7-950

@@ -28,3 +28,6 @@ Aperture for Sheath
 
 Aperture for gas
 100 down to 75 µm
+
+WT1 3 µm
+WT2 3 µm
