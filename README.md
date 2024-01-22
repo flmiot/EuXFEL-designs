@@ -9,6 +9,9 @@ https://doi.org/10.1107/S1600577521013370
 For referencing the use of desings MV_I, MV_J, please add the additional reference:
 https://doi.org/10.1107/S1600576723004405
 
+For referencing the use of desings MV_P, MV_O, please add the additional reference:
+https://doi.org/10.1107/S1600577523008159
+
 For referencing the use of desings JKMH_x, please add the additional reference:
 https://doi.org/10.1038/s41467-020-14434-6
 
