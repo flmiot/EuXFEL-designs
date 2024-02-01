@@ -29,6 +29,8 @@ For sample capillaries with 250 µm ID
 
 
 Cx_1.stl
+origin: D10000000944327_A001
 optimized for 10x objective printing
 7.5 µm wall thickness at liquid orifice
 rectangular 10x8 µm (wxh) inlet ribs
+Inlet ribs 350 µm diameter
