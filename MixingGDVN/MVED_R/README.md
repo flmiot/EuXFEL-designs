@@ -11,3 +11,9 @@ D(channel)-D(MC)-D(SC)-L(channel)-D(liquid)-D(gas)-H(liquid-gas) [µm]
 Extruded internal channel
 Inlet ribs 350 µm diameter
 Increased wall thickness at the inlet ports
+
+
+R2-D10000000974114_A001
+
+D(channel)-D(MC)-D(SC)-L(channel)-D(liquid)-D(gas)-H(liquid-gas) [µm]
+= 75-75-231.7-2000-75-60-75
