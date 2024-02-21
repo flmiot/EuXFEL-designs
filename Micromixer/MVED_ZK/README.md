@@ -2,7 +2,7 @@
 This subfolder contains
 
 MVED_ZK_200_100_231_7_950_1.stl
-origin: ZK-D10000000951003-D10000000951003_A001
+origin: ZK_02-D10000000951003_A001
 
 
 Micromixer
