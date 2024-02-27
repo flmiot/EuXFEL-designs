@@ -2,7 +2,7 @@
 This subfolder contains
 
 MVED_ZK_200_100_231_7_950_1.stl
-origin: ZK_02-D10000000951003_A001
+origin: ZK2-D10000000951003_A001
 
 
 Micromixer
@@ -26,6 +26,5 @@ Aperture for gas entry
 100 µm
 
 Inlet ribs 350 µm diameter
-Mixing cross is pulled out 115.8 µm
-2 devices per printing batch
+3 devices per printing batch
 5 elements
