@@ -19,3 +19,17 @@ Inlet ribs 350 µm diameter
 
 6.stl
 Optimized for OrmoComp with thicker inlet ports
+
+
+
+
+MVED_BSol-D10000001083452_A001.stl
+
+Aperture for liquid
+150 down to 75 µm
+
+Aperture for gas
+200 down to 60 µm
+
+Reference edge 140 µm
+Inlet ribs 315 µm diameter

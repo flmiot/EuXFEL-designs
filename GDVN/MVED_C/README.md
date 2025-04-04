@@ -34,3 +34,21 @@ optimized for 10x objective printing
 7.5 µm wall thickness at liquid orifice
 rectangular 10x8 µm (wxh) inlet ribs
 Inlet ribs 350 µm diameter
+
+
+
+MVED_CSol-D10000001084263_A001.stl
+
+Aperture for liquid
+150 down to 100 µm
+
+Aperture for gas
+200 down to 75 µm
+
+Reference edge 140 µm
+Inlet ribs 315 µm diameter
+
+
+
+
+
