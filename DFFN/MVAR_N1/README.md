@@ -16,6 +16,12 @@ D\_Liquid1-D\_Liquid2-GasAperture-H\_ig-H\_io
 
 
 
+for NOA gluing
+
+
+
+
+
 N1-AR-D10000001283218\_A001.stl
 Reference edge 140 µm
 Total length 1.4957 mm
