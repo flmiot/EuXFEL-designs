@@ -36,3 +36,22 @@ D(channel)-D(MC)-D(SC)-L(channel)-D(liquid)-D(gas)-H(liquid-gas) \[µm]
 
 4.9627 mm total length SL (3.530 mm total mixing channel length)
 
+
+
+
+
+SLS3-D10000001351766\_A001
+
+SLSxN1
+
+
+
+D(channel)-D(MC)-D(SC)-L(channel)-D(liquid)-D(gas)-H(liquid-gas) \[µm]
+= 250-100-250-3530-30-75-100
+
+
+
+4.9627 mm total length SL (3.530 mm total mixing channel length)
+
+
+
